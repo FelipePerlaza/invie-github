@@ -1,3 +1,4 @@
-# invie-github
-App web  
-Aplicación de guitarras.
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
